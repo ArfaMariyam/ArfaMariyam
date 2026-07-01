@@ -15,30 +15,17 @@ I chose **C++** as my very first programming language because it is a core part 
 I am participating in the **Stardance Summer Challenge**! It is an incredibly fun experience where I get to communicate, share ideas, and connect with thousands of other tech-minded students from all over the world. 
 
 Seeing the creative projects other teenagers are building on the Hack Club Slack is so inspiring. It turns learning to code into a huge, shared global adventure.
+
 ---
 
 ## 📂 What I'm Building Right Now
 
 ### 🛠️ [Programming Fundamentals in C++](https://github.com/ArfaMariyam/Programming-fundamentals-in-CPP)
-This is my main repository where I am keeping all my practice folders perfectly sorted as I learn how code actually structures itself. It tracks my step-by-step progress through these modules:
-
-* **Variables & Memory (`/variables`):** Learning how computer storage handles different types of datacontainers like `integers`, `float`, `double`, `char`, `boolean`, and `string`.
-* **Basic Terminal Outputs (`/Basic cout practice`):** Fun printing tasks where I practice syntax formatting, line breaks, and terminal layout structure across different topics:
-    * `hello world/` & `congragulation/` — Where my very first programs live.
-    * `about countories PAK/` — Practicing multiple output streams while writing about my country.
-    * `about earth/` & `about solar system/` — Grinding layout blocks with structural text execution.
-* **Mathematical Actions (`/operations`):** Writing standalone math calculation engines covering everything from `addition` and `subtraction` to `multiply` and `divide` commands.
-* **Interactive Inputs (`/Basic cin practice`):** Taking my code to the next level by allowing the program to pause, ask the user a question, and process their response dynamically.
-* **Control Flow Decisions (`/conditions`):** Building decision-making scripts using multi-branch `if else` logic and structural menu selections with `switch` statements.
-* **Process Loops (`/loops`):** Grinding through automated repetition patterns using `for`, `while`, and `do while` loops to make the computer handle multiple tasks automatically.
-* **Code Architecture (`/functions`):** Learning how to bundle lines of repetitive code into clean, reusable blocks using regular `functions` and passing variables through `argument func` parameters.
-
----
+This is my main repository tracking my day-by-day evolution as a programmer. It functions as an organized catalog of my modular practice blocks, covering core variable memory, basic input/output terminal logic, switch menus, conditional structures, loops, and functional architecture. 
 
 ### 🚗 [Car Parking Management Project](https://github.com/ArfaMariyam/Programming-fundamentals-in-CPP/tree/main/Car_parking_project)
-This is my primary project! I am taking the core mechanics from all of my isolated practice folders above and combining them into a comprehensive terminal application. 
+My flagship application! I am taking the standalone logic blocks from my practice directories and combining them into a comprehensive terminal application. This interactive command-line system is designed to simulate a real-world parking structure—tracking slot availabilities, handling vehicle check-ins/check-outs, and processing operational logic in real-time.
 
-Instead of just running a generic script, this is a fully interactive command-line system designed to manage real parking garage layouts.
 ---
 
 ## ⚡ Fun Facts About Me
